@@ -1,0 +1,15 @@
+DROP TABLE IF EXISTS users;
+DROP TABLE IF EXISTS user_status;
+DROP TABLE IF EXISTS "sessions";
+DROP TABLE IF EXISTS courses;
+DROP TABLE IF EXISTS material;
+DROP TABLE IF EXISTS marks;
+DROP TABLE IF EXISTS assignment;
+DROP TABLE IF EXISTS subscriptions;
+DROP TABLE IF EXISTS course_progress;
+DROP TABLE IF EXISTS submission;
+DROP TABLE IF EXISTS verify_emails ;
+DROP  TABLE IF EXISTS requests ;
+DROP TABLE IF EXISTS categories;
+
+
