@@ -1,4 +1,4 @@
-The Learning Management System (LMS) is designed to streamline educational processes and enhance the learning experience for both students and teachers. The system is controlled by an Admin who has the authority to manage users and system settings.
+The Learning Management System (LMS) is designed to streamline educational processes and enhance the learning experience for both students and teachers. The system is controlled by an Admin who has the authority to manage users and system settings.The backend coding part is here. Golang is the programming language used to implement.
 
 Admin Role
 •	The admin is responsible for overall system control and management.
